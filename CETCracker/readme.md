@@ -1,5 +1,7 @@
 # CETCracker
 
+**For learning purpose only.**
+
 A simple CNN to recognize captcha on the [website](https://passport.neea.edu.cn/CETLogin?ReturnUrl=https://cet-bm.neea.edu.cn/Home/VerifyPassport/?LoginType=0)
 
 > This is my homework on the class *Image processing*.
