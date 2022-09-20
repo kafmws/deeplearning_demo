@@ -53,6 +53,14 @@ python predict.py
 
 ## results
 
+- presentation
+
+<div>
+    <video width="640" height="480" controls>
+        <source src="https://github.com/kafmws/deeplearning_demo/raw/master/CETCracker/demo.mp4" type="video/mp4">
+    </video>
+</div>
+
 - distribution of characters in dataset
 
 <img src="https://cdn.jsdelivr.net/gh/kafmws/pictures/notes/distribution of characters in dataset.png" alt="distribution of characters in dataset" width="80%">
