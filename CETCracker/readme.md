@@ -53,7 +53,7 @@ python predict.py
 
 ## results
 
-- presentation
+###### presentation
 
 <!-- 
 <div>
@@ -66,19 +66,19 @@ python predict.py
 https://user-images.githubusercontent.com/33590879/191238547-5926dc57-b6b0-4bf4-b688-9f0daa98fa3b.mp4
 
 
-- distribution of characters in dataset
+###### distribution of characters in dataset
 
 <img src="https://cdn.jsdelivr.net/gh/kafmws/pictures/notes/distribution of characters in dataset.png" alt="distribution of characters in dataset" width="80%">
 
 &emsp;&emsp;
 
-- model architecture
+###### model architecture
 
 <img src="https://cdn.jsdelivr.net/gh/kafmws/pictures/notes/model Architecture.png" alt="model Architecture" width="80%">
 
 &emsp;&emsp;
 
-- Experimental setup and the results
+###### Experimental setup and the results
 
 <img src="https://cdn.jsdelivr.net/gh/kafmws/pictures/notes/Experimental setup and results of CNN.png" alt="Experimental setup and results of CNN" width="80%">
 
