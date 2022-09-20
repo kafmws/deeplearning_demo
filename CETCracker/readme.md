@@ -55,11 +55,16 @@ python predict.py
 
 - presentation
 
+<!-- 
 <div>
     <video width="640" height="480" controls>
         <source src="https://github.com/kafmws/deeplearning_demo/raw/master/CETCracker/demo.mp4" type="video/mp4">
     </video>
 </div>
+ -->
+
+https://user-images.githubusercontent.com/33590879/191238547-5926dc57-b6b0-4bf4-b688-9f0daa98fa3b.mp4
+
 
 - distribution of characters in dataset
 
